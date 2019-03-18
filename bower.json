@@ -16,8 +16,8 @@
     "output"
   ],
   "dependencies": {
-    "purescript-console": "^3.0.0",
-    "purescript-maybe": "^3.0.0",
-    "purescript-functions": "3.0.0"
+    "purescript-console": "^4.2.0",
+    "purescript-maybe": "^4.0.1",
+    "purescript-functions": "4.0.0"
   }
 }
